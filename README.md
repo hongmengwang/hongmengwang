@@ -1,5 +1,5 @@
 ### Hi there 👋
-![alt text](https://youtu.be/fzI9FNjXQ0o)
+![alt text](https://www.udsenterprise.com/media/filer_public_thumbnails/filer_public/2d/32/2d32a753-1149-4ad0-af23-6448665de2dc/open-source-projects-2018.jpg__800x600_q85_subsampling-2.jpg)
 <!--
 **hongmengwang/hongmengwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
