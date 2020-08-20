@@ -7,7 +7,7 @@
 - 👯 I’m currently leading global data science platform team
 - 🧮 I’m currently working on data/ML engineering
 - 🏠 I’m currently living in Dalian, China
-- 💬 Ask me about: <a href="https://hongmeng.me/" target="_blank">Tech Blog</a>
-- 📨 How to reach me: <a href="https://www.linkedin.com/in/hongmengwang/" target="_blank">LinkedIn</a>
 - ⚡ Fun fact: ⛹️‍♂️ 🏊‍♀️ 🎱 🚙 🎵
 ```
+- 💬 Ask me about: <a href="https://hongmeng.me/" target="_blank">Tech Blog</a>
+- 📨 How to reach me: <a href="https://www.linkedin.com/in/hongmengwang/" target="_blank">LinkedIn</a>
