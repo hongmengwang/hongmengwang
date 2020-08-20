@@ -1,4 +1,9 @@
 ### Hi there 👋
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+
 [![Wang, Hongmeng's github stats](https://github-readme-stats.vercel.app/api?username=hongmengwang&theme=dracula "![Wang, Hongmeng's github stats")]
 
 <!--
