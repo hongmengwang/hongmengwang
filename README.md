@@ -1,5 +1,5 @@
 ### Hi there 👋
-![alt text](https://hongmeng.me/2019/03/13/one-piece/181552013625_-pic_hd/?raw=true)
+![alt text](https://hongmeng.me/tag/status/#jp-carousel-781?raw=true)
 <!--
 **hongmengwang/hongmengwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
