@@ -4,6 +4,6 @@
 - 🔭 I’m currently working on data/ML engineering, science platform
 - 👯 I’m currently leading global data platform team
 - 🌱 I’m currently living in Dalian, China
-- 💬 Ask me about: https://hongmeng.me
-- 📫 How to reach me: https://www.linkedin.com/in/hongmengwang/
+- 💬 Ask me about: <a href="https://hongmeng.me/" target="_blank">Blog</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/hongmengwang/" target="_blank">LinkedIn</a>
 - ⚡ Fun fact: 🏀 🎵 🏋️‍♂️ 🎱 🚙
