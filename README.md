@@ -5,7 +5,7 @@
 ```
 - 🏢 I'm currently working in Rakuten
 - 👯 I’m currently leading global data science platform team
-- 🧮 I’m currently working on data/ML engineering
+- 🧮 I’m currently working on Application Service/Infrastructure/Bigdata/ML Engineering..
 - 🏠 I’m currently living in Dalian, China
 - ⚡ Fun fact: ⛹️‍♂️ 🏊‍♀️ 🎱 🚙 🎵
 ```
